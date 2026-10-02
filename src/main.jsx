@@ -625,9 +625,9 @@ $ echo $LANGUAGES
               <Mail size={16} className="cyan" />
               <span>chaurasiyabipasha@gmail.com</span>
             </a>
-            <a href="https://github.com" target="_blank" rel="noreferrer">
+            <a href="https://github.com/chaurasiyabipasha-svg" target="_blank" rel="noreferrer">
               <Github size={16} className="cyan" />
-              <span>GitHub Profile</span>
+              <span>github.com/chaurasiyabipasha-svg</span>
             </a>
             <a href="https://linkedin.com" target="_blank" rel="noreferrer">
               <Linkedin size={16} className="cyan" />
